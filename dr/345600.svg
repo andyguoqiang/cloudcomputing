@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 30 30" data-name="Layer 1" id="Layer_1"><path data-cppathid="10000" style="fill: #7a90c2" d="M22,23H8V13.15l7-6.71,7,6.71ZM10,21H20V14l-5-4.8L10,14Z"/></svg>

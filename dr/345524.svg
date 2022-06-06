@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 70 70" data-name="Layer 1" id="Layer_1"><circle data-cppathid="10000" style="fill: #4261a8" r="17.5" cy="35" cx="35"/><circle data-cppathid="10001" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px" r="7" cy="35" cx="35"/></svg>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 50 90" data-name="Layer 2" id="Layer_2"><defs><style>.cls-1{fill:none;stroke:#4160b1;stroke-miterlimit:10;stroke-width:3.69px;}</style></defs><title/><path data-cppathid="10000" d="M28,31.16V69.45A7.86,7.86,0,0,1,25.7,75h0a7.85,7.85,0,0,1-11.09,0l-.47-.46A7.85,7.85,0,0,1,11.85,69V20.55a7.84,7.84,0,0,1,7.84-7.85H30.31a7.84,7.84,0,0,1,7.84,7.85" class="cls-1"/></svg>
